@@ -4,14 +4,8 @@
 #### 😈 Interested in low-level programming, exploiting security flaws and overall breaking stuff :D
 #### 🖥️ Featured projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=norsefire&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=viking&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=nbqmemory&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=photocode-ai-coding-assistant&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=kernel-csgo&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=asm-lib&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=divert&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=cmdgui2&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=HideDriver&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=cpp-arduino&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=qmath&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nbqofficial&repo=VBMemory&title_color=000&icon_color=000&text_color=303030&bg_color=fff)
